@@ -1,5 +1,5 @@
 function app () {
-	// things are done
+	alert('Rannah ain\'t never had no bacon');
 }
 
 app();
